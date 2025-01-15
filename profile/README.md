@@ -1,4 +1,4 @@
-# INVO-ke Labs ⚛️  
+# INVO-ke Labs 
 
 Welcome to the **INVO-ke Labs** Git repository — a vanguard of advanced Artificial Intelligence research, seamlessly integrating **Neuromorphic Engineering**, **Quantum Computing**, and **Classical Engineering**. Our mission transcends emulating human cognition; we aim to redefine its boundaries, paving the way for transformative innovations. 🚀
 
